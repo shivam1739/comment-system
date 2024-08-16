@@ -1,0 +1,21 @@
+NEXT_PUBLIC_FIREBASE_API_KEY="AIzaSyAffRDa-u8v_ESAErEM_zIcAiyWMIZbJKg"
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN="comment-system-83640.firebaseapp.com"
+NEXT_PUBLIC_FIREBASE_PROJECT_ID="comment-system-83640"
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET="comment-system-83640.appspot.com"
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID="1096074315394"
+NEXT_PUBLIC_FIREBASE_APP_ID="1:1096074315394:web:724ac99499ab9bbb19169b"
+
+FIREBASE_SERVICE_ACCOUNT_KEY='{
+  "type": "service_account",
+  "project_id": "comment-system-83640",
+  "private_key_id": "6689ef69a349141aee2d33fe8b52f17dafdab45c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCd2hNzfcja9pg1\nw8vcdjVKYzucSbSeSNjZC0ydFkEjkxyoyXcjDa+5pmZVecjkx3X91Hm61U7q5eKK\nThX3nJr+GybUPLnBgAE8AulhET7knwERV4gyZpLSUJwjo8GxlPweTZfJm23iRa9k\nTTEqu0RbK3LGcEqWv05e83uQzFz2cRaURsGZSWvPVuN1IPPAlAcmu3te3choOKhz\n02VFJ1EJXQtKUA7KsHE5eIgadPajixXObspavf9cdmpkx+Ln9vw1tfTrQp2tKzH2\n+4OnlWTGM5OlX7XYLwAVEUHu4hUm11w6n6jdntY0HviI8N+5Dj48hZ+KC6AXmf23\ncChTZnUpAgMBAAECgf9Nu0MDgk6v9qc7TeGAge5Fng6sIv5aeIA9at7gAQAqbzad\nIF+uKBGXNslYlT8ArF5BLKCC2XmYllSzrv3Rtgy5giVc1Mzm2RY0TtJzabxwDMnR\nhSDkNZn2PnS4KycJxLBsDFMroW8enKi/tKJPzo3mmcNydK7eDQ/PfgjiWmtQdElh\naVqyTi7beAoFgdCGB2R9RiPOj1p0xXo2KvN6mH1d7u1la/jBXdgliqCwFfBp14RY\nvSfQ5iK6kzLR06RM/9dM+rlacqnJHJftCUIEQ8kEMmsR73BZwysb2WaMAYi7P9Bb\nIfKPDZQQk0+u6qWKP10uRrFrKDhEGOBQFFt91IUCgYEAzK8aTipQuDJeWKezqRsz\nmpOgq2jEMFpgTUxp3dTQr+imIaJD4Vc2eMd8Oyw4NDHatdjXPsfxDJw7Pv0wjWNd\nmvCdWx03VJRYCVbjvrDfrdbFwEwaBlR/odsVepFVB4hIZ7d0vEXJZSNaPfm8Mh70\nqeT0bt6Op5gg1G2vEGywjQUCgYEAxW05GTSCTPU+BZ95GB353/fLQjF8rdBVFA66\n7zblGwIcBPwVNTuo402Ie3jLU+d7YSMe0674JHNQSEFZ9wAqm1gTV5n8vHeAsNm0\nYXIyuRc23bseVP/+yj82Z9nzs84eO/5g0TQfGH2k2LhfWT8or1tc36+IwtcqRtwS\nzZlGoNUCgYB0x2Z7uDrLjLk1XaDsV3+urpGZmjFs4PNWxsUT8kqKQnMed2TBGTAT\n4sSnQghjBxqga7IKuKp3pl9LBcuAr3OFZchxZo7d67D6yx8u+dz0Yrf6ibDDccxL\n/SIZBvf7Ty74Nbwderd3w57GA0jzU6QFloI7CzFavznj2Rxrg4eLPQKBgCxWUSJl\n9nVOBjXBELLn2HwB7DXbY0KtrM2qWTTrwRwFp0E/U4v28ADMIsCH6jHXpI+2EXA8\ntSGKfBceBhRAh1EHwKBFxsqUk+QjoCzaNqX2nq3BHhi8vP2yoIdGHULeIVAb2qZg\n7DLV1LWPAmrKklp/TCY4B6CqLaZoOhjOOVxZAoGAMzf0W9IBdCavh82CeNrrjYBL\nVFYKu84xclQigVuXriOYBFrf5iTxM7se3aoIgyPcqXLuSBcjU3ZJcgUsuNowotQy\nfEo/dycXuvCXjZ2x+qbV/4rduRuW3S2TO+vKZviUDBhR+Zvg3/B9f8Lfo3CEpxL9\n0EfNeYALzS+anPB8eT0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-r5b8t@comment-system-83640.iam.gserviceaccount.com",
+  "client_id": "113211261064363326224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-r5b8t%40comment-system-83640.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+'
