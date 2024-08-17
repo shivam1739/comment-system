@@ -11,9 +11,15 @@
   "dependencies": {
     "firebase": "^10.13.0",
     "firebase-admin": "^12.3.1",
+    "jose": "^5.6.3",
+    "js-cookie": "^3.0.5",
     "next": "14.2.5",
+    "quill": "^2.0.2",
+    "quill-hashtag": "^1.0.2",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-quill": "^2.0.0",
+    "styled-components": "^6.1.12"
   },
   "devDependencies": {
     "@types/node": "^20",

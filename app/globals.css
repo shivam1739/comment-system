@@ -16,18 +16,20 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.editor-container {
+  display: flex;
+  flex-direction: column;
+  height: 300px; /* Adjust height as needed */
+}
+
+.quill-toolbar {
+  border-top: 1px solid #ccc;
+  padding: 5px;
 }
